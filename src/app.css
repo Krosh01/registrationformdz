@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Main_verification_inner{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+.Button_back{
+    background-color: red;
+    color: black;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+.Button_back:hover{
+    background-color:black ;
+    color: red;
+}
+.Main_user_page{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.main_page{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.Main_p{
+    color: aqua;
+    font-size: 34px;
+}
+.Main_users_name{
+    border-radius: 10px;
+    padding-top: 15px;
+}
+.Main_users_mane{
+    border-bottom: 2px solid red;
+}
